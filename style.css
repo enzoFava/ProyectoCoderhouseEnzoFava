@@ -1,0 +1,19 @@
+main{
+    margin: 0%;
+    padding: 0%;
+    background-color: #ECB6FF;
+}
+
+.logo{
+    height: 20vh;
+    width: 20vh;
+}
+
+header{
+    background-color: #232660;
+}
+
+ul.header{
+    color: black;
+    font-size: large;
+}
