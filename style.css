@@ -1,9 +1,11 @@
+/* reset */
 main{
     margin: 0%;
     padding: 0%;
     background-color: #ECB6FF;
 }
 
+/* header style */
 .logo{
     height: 20vh;
     width: 20vh;
@@ -17,3 +19,11 @@ ul.header{
     color: black;
     font-size: large;
 }
+
+/* footer style */
+footer{
+    background-color: #15173D;
+}
+
+.custom-img{
+    height: 4vh;
