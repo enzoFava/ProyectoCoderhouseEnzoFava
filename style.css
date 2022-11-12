@@ -1,8 +1,10 @@
-/* reset */
+/* main style for all html */
 main{
     margin: 0%;
     padding: 0%;
     background-color: #ECB6FF;
+    color: #232660;
+    font-family: sans-serif, "quicksand"
 }
 
 /* header style */
@@ -27,3 +29,24 @@ footer{
 
 .custom-img{
     height: 4vh;
+}
+
+/* Services style */
+.box-title{
+    background-image: url(./assets/repa2png.png);
+    min-height: 65vh;
+    background-size: cover;
+    position: relative;
+    text-shadow: 2px 2px 2px rgba(0,0,0,.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.custom-article{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+}
+
