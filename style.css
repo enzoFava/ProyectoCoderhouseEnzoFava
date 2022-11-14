@@ -5,7 +5,9 @@ main{
     background-color: #ECB6FF;
     color: #232660;
     font-family: sans-serif, "quicksand"
+    
 }
+
 
 /* header style */
 .logo{
@@ -31,7 +33,7 @@ footer{
     height: 4vh;
 }
 
-/* Services style */
+/* index style */
 .box-title{
     background-image: url(./assets/repa2png.png);
     min-height: 65vh;
@@ -50,3 +52,8 @@ footer{
     justify-content: center;
 }
 
+/* services style */
+
+.card{
+    background-color: #ECB6FF;
+}

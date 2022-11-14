@@ -1,0 +1,3 @@
+Como saco los margenes del main?
+como hago para que la imagen principal se ajuste al tamaño del contenedor y sea responsive
+como saco los bordes negros de las cards
