@@ -1,0 +1,25 @@
+footer {
+	background-color: #15173D;
+}
+.custom-img {
+	height: 4vh;
+}
+.box-title {
+	background-image: url(../assets/repa2png.png);
+	min-height: 65vh;
+	background-size: cover;
+	position: relative;
+	text-shadow: 2px 2px 2px rgba(0,0,0,.2);
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.custom-article {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+.custom {
+	margin-left: 25vh;
+}

@@ -1,0 +1,14 @@
+header {
+	background-color: #232660;
+    .my-hover:hover{
+        text-shadow: 8px 8px 8px rgba(0,0,0,.2);
+    }
+}
+
+ul {
+	&.header {
+		color: black;
+		font-size: large;
+	}
+
+}
