@@ -3,6 +3,9 @@
 @import "./base/reset.scss";
 @import "./base/typography.scss";
 
+//Utilities
+@import "./utilities/functions.scss";
+
 //layout
 @import "./layout/body-main.scss";
 @import "./layout/footer.scss";

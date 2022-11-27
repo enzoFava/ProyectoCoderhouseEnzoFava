@@ -1,7 +1,7 @@
 header {
-	background-color: #232660;
+	background-color: $color_one;
     .my-hover:hover{
-        text-shadow: 8px 8px 8px rgba(0,0,0,.2);
+        text-shadow: $shadow_text;
     }
 }
 

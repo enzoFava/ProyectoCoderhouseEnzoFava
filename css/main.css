@@ -1,43 +1,45 @@
-main {
-  margin: 0%;
-  padding: 0%; }
+.text-font1 {
+  font-size: 1rem; }
+
+.text-font2 {
+  font-size: 2rem; }
+
+.text-font3 {
+  font-size: 3rem; }
+
+.text-font4 {
+  font-size: 4rem; }
 
 main {
   background-color: #ECB6FF;
   color: #232660;
   font-family: sans-serif, "quicksand"; }
 
-.custom-title {
+.custom-title, .box-title {
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2); }
 
 .logo {
   height: 20vh;
   width: 20vh; }
 
-footer {
-  background-color: #15173D; }
-
-.custom-img {
-  height: 4vh; }
-
 .box-title {
-  background-image: url(../assets/repa2png.png);
+  background-image: url(../assets/repa2redim72dpi.png);
   min-height: 65vh;
   background-size: cover;
   position: relative;
-  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
   display: flex;
   flex-direction: column;
   justify-content: space-around; }
 
-.custom-article {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center; }
+.custom-img {
+  height: 4vh; }
 
-.custom {
-  margin-left: 25vh; }
+body {
+  width: 0%, 0%;
+  height: 0%, 0%; }
+
+footer {
+  background-color: #15173D; }
 
 header {
   background-color: #232660; }

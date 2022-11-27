@@ -1,0 +1,11 @@
+@for $i from 1 through 4{
+    .text-font#{$i}{
+        font-size: 1rem * $i;
+    }
+}
+
+@mixin flex-col-around{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
