@@ -13,8 +13,9 @@ main {
 
 .box-title {
 	background-image: url(../assets/repa2redim72dpi.png);
+	background-position: center center;
+	background-size: auto;
 	min-height: 65vh;
-	background-size: cover;
 	position: relative;
 	@extend .custom-title;
 	@include flex-col-around
